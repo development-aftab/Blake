@@ -1,0 +1,111 @@
+#sign-in-form h3 {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+#sign-in-form h6 {
+  margin-bottom: 30px;
+}
+
+#sign-in-form .username-field {
+  margin-bottom: 20px;
+}
+
+#sign-in-form .password-field {
+  margin-bottom: 20px;
+}
+
+#sign-in-form .email-field {
+  margin-bottom: 20px;
+}
+
+#sign-in-form .forget-password {
+  display: flex;
+  justify-content: space-between;
+}
+
+#sign-in-form .forget-pass {
+  text-decoration: none;
+}
+
+#sign-in-form .btn-signIn {
+  background-color: red;
+  border-radius: 10px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+#sign-in-form .btn-account {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  width: 150px;
+}
+
+#sign-in-form .already-account {
+  color: red;
+  font-size: 15px;
+}
+
+#sign-in-form .signup-field {
+  margin-bottom: 15px !important;
+}
+
+/* .navbar-collapse {
+  position: absolute;
+  z-index: 5;
+  right: 10px;
+  top: 83px;
+  padding: 13px;
+  width: 100%;
+  border-radius: 14px;
+}
+
+.header {
+  position: relative;
+} */
+
+#sign-in-form .btn-signup {
+  margin-bottom: 5px !important;
+}
+
+#sign-in-form .btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+#sign-in-form a:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+#sign-in-form input:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+@media only screen and (max-width: 992px) {
+  .sign-background {
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .sign-background {
+    padding-bottom: 100px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .sign-background {
+    padding-bottom: 50px !important;
+  }
+
+  #sign-in-form .fill-form-para {
+    font-size: 14px;
+  }
+
+  #sign-in-form .accept-policy {
+    font-size: 14px;
+  }
+}

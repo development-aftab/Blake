@@ -1,0 +1,142 @@
+/*MEDIA QUERY BY FAIQ*/
+@media screen and (max-width: 1024px) {
+  #suppor-and-faq .faq-card h5,
+  #suppor-and-faq .faq-card p {
+    margin: 20px 0 40px;
+    font-weight: 700;
+    width: 80%;
+  }
+  .step-p {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .left-card-long {
+    width: 100%;
+    padding: 20px;
+    margin-left: -2px;
+  }
+  .number-img {
+    width: 40%;
+    margin-bottom: 40px;
+    margin-top: 50px;
+  }
+
+  .benefits-row p {
+    margin-top: 30px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .col-md-7.menu-heading-testimonial {
+    padding-left: 20px;
+  }
+  p.text-white.professional-section-para {
+    width: 100%;
+  }
+
+  img.mobile-image-section {
+    width: 100%;
+  }
+
+  .benefits-row h4 {
+    font-size: 20px;
+  }
+  .step-p {
+    width: 100%;
+  }
+  .step-img {
+    width: 100%;
+  }
+
+  #faq {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+  }
+  #video-section p {
+    width: 100%;
+  }
+  .faq-card {
+    width: 100%;
+  }
+  #word-togather p {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  #word-togather h4 {
+    padding-left: 15px;
+  }
+  .text-center {
+    text-align: left !important;
+  }
+  #word-togather h3 {
+    padding-left: 15px;
+  }
+  #suppor-and-faq .faq-card p {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #suppor-and-faq h2 {
+    padding-left: 15px;
+  }
+  .download-btn-col-right,
+  .download-btn-col-left {
+    margin-top: 10px;
+    padding-left: 0px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  #referral-banner p,
+  #referral-banner h2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  #suppor-and-faq .faq-card h5 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  form.form-footer {
+    width: 310px;
+  }
+
+  button.btn.custom-btn {
+    background-color: #ec1c24;
+    color: white;
+  }
+  .col-md-12.menu-heading-a {
+    padding-left: 15px;
+  }
+  .left-paragraph {
+    width: 100%;
+  }
+  .card-row {
+    padding: 0px 25px;
+  }
+  .right-col {
+    margin-top: 44px;
+    padding-left: unset;
+  }
+  .leadership-card-row {
+    padding: 0px 30px;
+  }
+  .contact-row {
+    padding: 0px 10px;
+  }
+  .offices-row {
+    padding: 0px 5px;
+  }
+  section.testimonial {
+    padding: 50px 10px;
+  }
+  h2.text-center.text-white {
+    padding-left: 10px;
+  }
+  .shadow {
+    width: 100%;
+    height: 100%;
+  }
+  section.header.bg-image.new-bg-2 {
+    padding-bottom: 50px;
+  }
+}

@@ -1,0 +1,1 @@
+<td><img src="{{asset('website')}}/{{$variable}}" style="width: 50px;height: 40px"></td>
